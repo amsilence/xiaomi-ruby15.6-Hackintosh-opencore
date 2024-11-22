@@ -70,6 +70,8 @@ XiaoMi-Ruby15.6-Hackintosh-OpenCORE   (support Sequoia macOS 15.1.x)
 |     IntelBTPatcher.kext     |    2.5.0     | https://dortania.github.io/builds/ |
 | IntelBluetoothFirmware.kext |    2.5.0     | https://dortania.github.io/builds/ |
 
+![Bluetooth](./image/Bluetooth.png)
+
 
 - NVRAM配置的参数
 
@@ -82,3 +84,8 @@ XiaoMi-Ruby15.6-Hackintosh-OpenCORE   (support Sequoia macOS 15.1.x)
 
 - 需要添加 IOSkywalkFamily.kext、IO80211FamilyLegacy.kext、AirportItlwm_v2.3.0_stable_Ventura.kext
 - OpenCore-Patcher需要安装1.6.0版本的，才能安装补丁
+
+![wifi](./image/wifi.png)
+
+
+
